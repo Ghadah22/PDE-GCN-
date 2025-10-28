@@ -4,7 +4,7 @@ import torch, torch.nn as nn, torch.nn.functional as F
 class TextFusion(nn.Module):
     """
     Inputs:
-      tokens:    [B, N, D]          (your per-variable tokens)
+      tokens:    [B, N, D]          (per-variable tokens)
       ctx_seq:   [B, L, E]          (LLM sentence embeddings per timestamp)
     Returns:
       tokens_out [B, N, D]          (FiLM + cross-attn fused)
