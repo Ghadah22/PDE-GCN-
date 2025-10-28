@@ -21,3 +21,4 @@ We appreciate the following work for their valuable code and data for time-serie
 - **[iTransformer](https://github.com/thuml/iTransformer)** - ITRANSFORMER: INVERTED TRANSFORMERS AREEFFECTIVE FOR TIME SERIES FORECASTING
 - **[RevIN](https://github.com/ts-kim/RevIN)** - REVERSIBLE INSTANCE NORMALIZATION FOR ACCURATE TIME-SERIES FORECASTING AGAINST DISTRIBUTION SHIFT
 - **[Flowformer](https://github.com/thuml/Flowformer)** - Flowformer: Linearizing Transformers with Conservation Flows
+-  **[FlashAttention](https://github.com/shreyansh26/FlashAttention-PyTorch)** - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
