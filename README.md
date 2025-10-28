@@ -3,7 +3,7 @@ Forecasting
 
 
 
-## 🏆 Acknowledgment
+##  Acknowledgment
 
 We appreciate the following work for their valuable code and data for time-series forecasting:
 
